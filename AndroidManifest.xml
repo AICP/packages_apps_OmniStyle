@@ -22,13 +22,13 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <uses-permission android:name="android.permission.WRITE_SETTINGS" />
 
     <uses-sdk
-        android:minSdkVersion="24"
-        android:targetSdkVersion="24" />
+        android:minSdkVersion="25"
+        android:targetSdkVersion="25" />
 
     <application
         android:allowBackup="false"
-        android:label="OmniStyle"
-        android:icon="@drawable/omnirom_logo" >
+        android:label="AICP Headers"
+        android:icon="@drawable/aicp_logo" >
         <activity
             android:name=".BrowseHeaderActivity"
             android:label="@string/browse_header"
@@ -39,19 +39,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".weather_color"
-            android:label="LockClock (color)" >
-            <intent-filter>
-                <action android:name="org.omnirom.WeatherIconPack" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
 
         <activity
             android:name=".nature"
-            android:label="Nature" >
+            android:label="@string/nature_header" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -61,7 +52,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
         <activity
             android:name=".poly"
-            android:label="Poly" >
+            android:label="@string/poly_header" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -71,7 +62,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
         <activity
             android:name=".naturerandom"
-            android:label="Nature (random)" >
+            android:label="@string/nature_random_header" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -81,7 +72,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
         <activity
             android:name=".wavvy"
-            android:label="Wavvy" >
+            android:label="@string/wavvy_header" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
@@ -91,7 +82,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
         <activity
             android:name=".colorful"
-            android:label="Colorful" >
+            android:label="@string/colorful_header" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
