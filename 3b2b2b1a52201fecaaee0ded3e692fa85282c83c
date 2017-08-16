@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "c962861a_f9482fcd",
+        "filename": "AndroidManifest.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2017-08-16T15:31:40Z",
+      "side": 1,
+      "message": "I wouldn\u0027t change this name TBH, it\u0027s not app and we don\u0027t have any claim on it",
+      "revId": "3b2b2b1a52201fecaaee0ded3e692fa85282c83c",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
+      "unresolved": false
+    }
+  ]
+}
