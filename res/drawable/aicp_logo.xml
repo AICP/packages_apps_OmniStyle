@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+** Copyright 2017 AICP
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <path
+        android:fillColor="#ffab00"
+        android:pathData="M30.07 27.69l1.07 -1.07c0.2139 -0.214 0.2139 -0.642 0 -0.9628 -0.2139 -0.214 -0.6418 -0.214 -0.9625 0l-1.176 1.177c-1.39 -0.856 -2.995 -1.391 -4.815 -1.391 -1.818 0 -3.423 0.5348 -4.815 1.391l-1.176 -1.177c-0.2139 -0.214 -0.6418 -0.214 -0.9625 0 -0.2139 0.214 -0.2139 0.642 0 0.9628l1.07 1.07c-1.818 1.605 -2.995 3.958 -2.995 6.633l17.65 0c0.107 -2.675 -1.07 -5.029 -2.888 -6.633zm-9.2 4.066c-0.3209 0.3208 -0.8558 0.3208 -1.176 0 -0.3209 -0.3208 -1.176 -1.284 -1.176 -1.284 0 0 2.032 -0.214 2.353 0.1068 0.3209 0.3208 0.3209 0.856 0 1.177zm7.273 -0.1068c-0.2139 0.428 -0.7486 0.5348 -1.07 0.3208 -0.4278 -0.214 -0.5346 -0.7488 -0.3209 -1.07 0.2139 -0.428 2.246 -0.7488 2.246 -0.7488 0 0 -0.6418 1.07 -0.8558 1.498z" />
+    <path
+        android:fillColor="#ffab00"
+        android:pathData="M20.33 30.93c0.2363 0 0.4278 0.1918 0.4278 0.428 0 0.2362 -0.1915 0.428 -0.4278 0.428 -0.2363 0 -0.4278 -0.1918 -0.4278 -0.428 0 -0.2362 0.1915 -0.428 0.4278 -0.428z" />
+    <path
+        android:fillColor="#ffab00"
+        android:pathData="M27.5 30.93c0.2363 0 0.4278 0.1918 0.4278 0.428 0 0.2362 -0.1915 0.428 -0.4278 0.428 -0.2363 0 -0.4278 -0.1918 -0.4278 -0.428 0 -0.2362 0.1915 -0.428 0.4278 -0.428z" />
+    <path
+        android:fillColor="#ffab00"
+        android:pathData="M13.5 33.7c-0.8558 0 -1.604 0.5348 -1.604 1.605l3.103 0c0 -1.07 -0.6418 -1.605 -1.497 -1.605z" />
+    <path
+        android:fillColor="#ffab00"
+        android:pathData="M34.8 33.58c-0.8558 0 -1.604 0.5348 -1.604 1.605l3.102 0c0.107 -1.07 -0.6418 -1.605 -1.497 -1.605z" />
+    <path
+        android:fillColor="#ffab00"
+        android:fillAlpha="0.702"
+        android:pathData="M21.95 22.72l2.246 0 0 -8.879 -2.246 0z" />
+    <path
+        android:fillColor="#ffab00"
+        android:fillAlpha="0.702"
+        android:pathData="M28.55 24.96l2.25 0 0 -8.88 -2.25 0z" />
+    <path
+        android:fillColor="#ffab00"
+        android:fillAlpha="0.702"
+        android:pathData="M30.8 16.08c1.176 0 2.246 0.856 2.246 2.14 0 1.284 -0.9625 2.247 -2.246 2.247l0 2.14c2.46 0 4.385 -2.033 4.385 -4.386 0 -2.354 -2.032 -4.386 -4.385 -4.386z" />
+    <path
+        android:fillColor="#ffab00"
+        android:pathData="M28.55 16.08l2.246 0 0 -2.247 -2.246 0c-2.46 0 -4.385 2.033 -4.385 4.386 0 2.354 2.032 4.386 4.385 4.386l2.246 0 0 -2.14 -2.246 0c-1.176 0 -2.246 -0.9628 -2.246 -2.247 0 -1.2842 1.07 -2.14 2.246 -2.14" />
+    <path
+        android:fillColor="#ffab00"
+        android:pathData="M17.46 20.47c-1.176 0 -2.246 -0.9628 -2.246 -2.14 0 -1.1772 0.9625 -2.247 2.246 -2.247 1.2835 0 2.246 0.9628 2.246 2.247 0 1.2842 -1.07 2.14 -2.246 2.14zm2.246 -6.633l0 0.642c-0.6418 -0.428 -1.39 -0.642 -2.246 -0.642 -2.46 0 -4.385 2.033 -4.385 4.386 0 2.354 1.925 4.493 4.385 4.493 0.8558 0 1.604 -0.214 2.246 -0.642l0 0.642 2.246 0 0 -8.879z" />
+    <path
+        android:fillColor="#ffab00"
+        android:pathData="M15.94 5.465c-5.957 0 -10.75 4.793 -10.75 10.75l0 15.36c0 5.957 4.797 10.75 10.75 10.75l16.32 0c5.957 0 10.75 -4.797 10.75 -10.75l0 -15.36c0 -5.957 -4.797 -10.75 -10.75 -10.75zm1.907 4.304l12.51 0c4.566 0 8.243 3.676 8.243 8.243l0 11.77c0 4.566 -3.676 8.243 -8.243 8.243l-12.51 0c-4.566 0 -8.243 -3.676 -8.243 -8.243l0 -11.77c0 -4.566 3.676 -8.243 8.243 -8.243z" />
+</vector>
