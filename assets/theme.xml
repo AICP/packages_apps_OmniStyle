@@ -23,13 +23,12 @@ day_header entries have a higher priority then hour entries -->
     <meta_data creator="JayRod" />
     <change_interval minutes="1440" />
     <list_header image="theme_teal" name="Teal"/>
-    <list_header image="theme_slutty_pink" name="Slutty Pink"/>
+    <list_header image="theme_pink" name="Pink"/>
     <list_header image="theme_sky_blue" name="Sky Blue"/>
     <list_header image="theme_pixel_blue" name="Pixel Blue"/>
-    <list_header image="theme_mexican_sunset" name="Mexican Sunset"/>
-    <list_header image="theme_infected_red" name="Infected Red"/>
-    <list_header image="theme_golden_yellow" name="Golden Yellow"/>
-    <list_header image="theme_deep_purple" name="Deep Purple" />
+    <list_header image="theme_demon_red" name="Demon Red"/>
+    <list_header image="theme_yellow" name="Yellow"/>
+    <list_header image="theme_purple" name="Purple" />
     <list_header image="theme_omni_green" name="Omni Green" />
-    <list_header image="theme_money_green" name="Money Green" />
+    <list_header image="theme_light_green" name="Light Green" />
 </daylight_headers>
