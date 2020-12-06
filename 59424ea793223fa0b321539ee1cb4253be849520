@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6304d106_d86c4287",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1416
+      },
+      "writtenOn": "2020-12-06T14:25:03Z",
+      "side": 1,
+      "message": "Test\nWithout the patch:\n- In weather tile icon pack select \"LockClock (mono)\" AND \"LockClock (color)\", and observe missing icons\n\nWith the patch:\n- Package compiles\n- All available icon packs show weather condition images",
+      "revId": "59424ea793223fa0b321539ee1cb4253be849520",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
