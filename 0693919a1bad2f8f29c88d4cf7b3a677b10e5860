@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4fb6fa48_f0814bb3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1416
+      },
+      "writtenOn": "2021-09-19T11:59:24Z",
+      "side": 1,
+      "message": "Test:\n- No compilation issues on the entire topic\n- Wallpaper chooser activity appears on Styles \u0026 wallpaper option on Home screen 😋\n- Previews are loaded\n- Tapping on any item loads the wallpaper into the preview",
+      "revId": "0693919a1bad2f8f29c88d4cf7b3a677b10e5860",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
